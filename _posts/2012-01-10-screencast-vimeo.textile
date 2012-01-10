@@ -7,10 +7,6 @@ Web testing is the name given to software testing that focuses on web applicatio
 
 We are going to talk about web testing and how we can approach it.
 
-Thinking at web testing as wikipedia defines we can do web testing using:
-* Unit testing
-* Functional testing
-* Usability testing
-* Client side performance testing
+<iframe src="http://player.vimeo.com/video/34825694?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><p><a href="http://vimeo.com/34825694">Untitled</a> from <a href="http://vimeo.com/user9947393">Bogdan Gaza</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
 You can check out the slideshare presentation, the vimeo clip and the useful resources posts.

@@ -10,4 +10,11 @@ We are going to talk about web testing and how we can approach it.
 Thinking at web testing as wikipedia defines we can do web testing using:
 
 * "Guerilla Usability Testing":http://www.slideshare.net/andybudd/guerilla-usability-testing
+* "Understanding JavaScript testing":http://www.slideshare.net/jeresig/understanding-javascript-testing
+* "Automated Frontend Testing":http://www.slideshare.net/neilcrosby/automated-frontend-testing
+* "Automated UI Testing for Web and Native Apps on iOS and Android":http://www.slideshare.net/operationmobile/automated-ui-testing-for-web-and-native-apps-on-ios-and-android-10261455
+* "Web Test Automatation with Selenium":http://www.slideshare.net/vivek_prahlad/web-test-automation-with-selenium
+* "Selenium":http://seleniumhq.org/
+* "Google-js-test":http://code.google.com/p/google-js-test/
+* "QUnit":http://docs.jquery.com/QUnit
 * "Pagini web mai rapide - Alex Burciu":http://www.slideshare.net/alexb/pagini-web-mai-rapide

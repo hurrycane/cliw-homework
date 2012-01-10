@@ -3,7 +3,6 @@ permalink: blog/:year/:month/:title/
 auto: true
 server_port: 3000
 baseurl: /cliw-homework/
-source: https://github.com/hurrycane/cliw-homework
 destination: _site
 lsi: false
 pygments: true

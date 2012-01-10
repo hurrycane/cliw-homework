@@ -10,7 +10,7 @@ layout: default
 	<h3>Other posts.</h3>
 	
 	<ul class="posts">
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:5 %}
     	<li><a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a></li>
 {% endfor %}
     </ul>

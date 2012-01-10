@@ -1,0 +1,8 @@
+---
+  layout: post
+  title: Web testing - Slides
+---
+
+Web testing is the name given to software testing that focuses on web applications. Complete testing of a web-based system before going live can help address issues before the system is revealed to the public. [<a href="http://en.wikipedia.org/wiki/Web_testing">Wikipedia</a>]
+
+<div style="width:425px" id="__ss_10929110"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/hurrycane/cliw-web-testing" title="[CLIW] Web testing">[CLIW] Web testing</a></strong><object id="__sse10929110" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=cliw-120110000833-phpapp02&stripped_title=cliw-web-testing&userName=hurrycane" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/><embed name="__sse10929110" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=cliw-120110000833-phpapp02&stripped_title=cliw-web-testing&userName=hurrycane" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="425" height="355"></embed></object><div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/hurrycane">Bogdan Gaza</a>.</div></div>

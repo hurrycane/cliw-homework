@@ -1,0 +1,4 @@
+<footer>	
+  <p>Bogdan Gaza - <a href="http://profs.info.uaic.ro/~busaco/teach/courses/cliw/web.html">CLIW</a> Homework</p>
+  <p>Theme and Simple-Jekyll <a href="http://nickcottrell.info">nickcottrell.info</a></p>
+</footer>

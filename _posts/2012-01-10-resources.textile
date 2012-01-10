@@ -9,4 +9,5 @@ We are going to talk about web testing and how we can approach it.
 
 Thinking at web testing as wikipedia defines we can do web testing using:
 
+* "Guerilla Usability Testing":http://www.slideshare.net/andybudd/guerilla-usability-testing
 * "Pagini web mai rapide - Alex Burciu":http://www.slideshare.net/alexb/pagini-web-mai-rapide
